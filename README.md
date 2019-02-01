@@ -1,7 +1,7 @@
 # objectDetection
 object detection and localization in images
 
-<h6> Go through these links once for basic object detection and what algorithm we will be using : </h6>
+<h6> Go through these links once for basic object detection and localization and what algorithm we will be using : </h6>
 <ul>
   <li><a href="https://cv-tricks.com/object-detection/faster-r-cnn-yolo-ssd/">https://cv-tricks.com/object-detection/faster-r-cnn-yolo-ssd/</a></li>
   <li><a href="https://towardsdatascience.com/evolution-of-object-detection-and-localization-algorithms-e241021d8bad">https://towardsdatascience.com/evolution-of-object-detection-and-localization-algorithms-e241021d8bad</a></li>
