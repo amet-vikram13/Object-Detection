@@ -1,5 +1,5 @@
 # objectDetection
-object detection in images
+object detection and localization in images
 
 <h6> Go through these links once for basic object detection and what algorithm we will be using : </h6>
 <ul>
