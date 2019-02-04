@@ -5,7 +5,10 @@ object detection and localization in images
 <ul>
   <li><a href="https://cv-tricks.com/object-detection/faster-r-cnn-yolo-ssd/">https://cv-tricks.com/object-detection/faster-r-cnn-yolo-ssd/</a></li>
   <li><a href="https://medium.com/zylapp/review-of-deep-learning-algorithms-for-object-detection-c1f3d437b852">https://medium.com/zylapp/review-of-deep-learning-algorithms-for-object-detection-c1f3d437b852</a></li>
-  <li><a href="https://towardsdatascience.com/evolution-of-object-detection-and-localization-algorithms-e241021d8bad">https://towardsdatascience.com/evolution-of-object-detection-and-localization-algorithms-e241021d8bad</a></li>
+
+<li><a href="https://lilianweng.github.io/lil-log/2017/12/15/object-recognition-for-dummies-part-2.html">https://lilianweng.github.io/lil-log/2017/12/15/object-recognition-for-dummies-part-2.html</a></li>
+ 
+ <li><a href="https://towardsdatascience.com/evolution-of-object-detection-and-localization-algorithms-e241021d8bad">https://towardsdatascience.com/evolution-of-object-detection-and-localization-algorithms-e241021d8bad</a></li>
   <li><a href="https://leonardoaraujosantos.gitbooks.io/artificial-inteligence/content/object_localization_and_detection.html">https://leonardoaraujosantos.gitbooks.io/artificial-inteligence/content/object_localization_and_detection.html</a></li>
   <li><a href="https://medium.com/machine-learning-bites/deeplearning-series-objection-detection-and-localization-yolo-algorithm-r-cnn-71d4dfd07d5f">https://medium.com/machine-learning-bites/deeplearning-series-objection-detection-and-localization-yolo-algorithm-r-cnn-71d4dfd07d5f</a></li>
   <li><a href="https://www.analyticsvidhya.com/blog/2018/10/a-step-by-step-introduction-to-the-basic-object-detection-algorithms-part-1/">https://www.analyticsvidhya.com/blog/2018/10/a-step-by-step-introduction-to-the-basic-object-detection-algorithms-part-1/</a></li>
