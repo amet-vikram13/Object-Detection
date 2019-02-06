@@ -7,6 +7,10 @@ sys	0m6.896s
 def square(i) :
     return i*i
 
-
+x = 0
+ans = 0
 for i in range(2000000) :
-    print("num : {} ans : {}\n".format(i,square(i)))
+    x += 1
+    ans = square(i)
+    print(x)
+    #print("num : {} ans : {}\n".format(i,square(i)))
