@@ -15,6 +15,10 @@ object detection and localization in images
   <li><a href="https://www.analyticsvidhya.com/blog/2018/11/implementation-faster-r-cnn-python-object-detection/">https://www.analyticsvidhya.com/blog/2018/11/implementation-faster-r-cnn-python-object-detection/</a></li>
   <li><a href="https://towardsdatascience.com/r-cnn-fast-r-cnn-faster-r-cnn-yolo-object-detection-algorithms-36d53571365e">https://towardsdatascience.com/r-cnn-fast-r-cnn-faster-r-cnn-yolo-object-detection-algorithms-36d53571365e</a></li>
   <li><a href="https://medium.com/ilenze-com/object-detection-using-deep-learning-for-advanced-users-part-1-183bbbb08b19">https://medium.com/ilenze-com/object-detection-using-deep-learning-for-advanced-users-part-1-183bbbb08b19</a></li>
+
+<li><a href="https://tryolabs.com/blog/2018/01/18/faster-r-cnn-down-the-rabbit-hole-of-modern-object-detection/">best implmentation of faster R-CNN</a></li>
+
+
 </ul>
 
 
